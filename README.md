@@ -1,2 +1,3 @@
 # ProgramacionEstructurada-
-Programación en lenguaje c 
+
+Primeros codigos de programacion con C.
